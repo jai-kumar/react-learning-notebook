@@ -1,0 +1,29 @@
+{
+  "name": "react-learning-notebook",
+  "version": "1.0.0",
+  "description": "This is learning react course",
+  "homepage": "https://github.com/jai-kumar/react-learning-notebook#readme",
+  "bugs": {
+    "url": "https://github.com/jai-kumar/react-learning-notebook/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jai-kumar/react-learning-notebook.git"
+  },
+  "license": "ISC",
+  "author": "Jai Kumar",
+  "type": "commonjs",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.8.2"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browserslist": [
+    "last 2 versions"
+  ]
+}
